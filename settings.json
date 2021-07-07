@@ -34,3 +34,90 @@
 }
 
 // pay attention to the emulator and tabnine. if your are not using those just comment the line or you can ignore . I don't know just play with it 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  "tabnine.experimentalAutoImports": true,
+  "workbench.iconTheme": "material-icon-theme",
+  // "[javascript]": {
+  //   "editor.defaultFormatter": "esbenp.prettier-vscode"
+  // },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "emulator.emulatorPath": "C:\\Users\\USER\\AppData\\Local\\Android\\Sdk\\emulator",
+  "emulator.emulatorPathLinux": "C:\\Users\\USER\\AppData\\Local\\Android\\Sdk\\emulator",
+  "tabnine.disable_file_regex": [],
+  "git.autofetch": true,
+  "eslint.format.enable": true,
+  "editor.fontSize": 20,
+  "files.autoSave": "onFocusChange",
+  "editor.tabSize": 1,
+  "editor.wordWrap": "on",
+  "terminal.integrated.fontSize": 18,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "editor.minimap.enabled": false,
+  "prettier.jsxSingleQuote": true,
+  "prettier.semi": false,
+  "prettier.singleQuote": true,
+  "editor.formatOnPaste": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.cursorBlinking": "blink",
+  "explorer.confirmDelete": false,
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "files.autoSaveDelay": 10,
+  "editor.formatOnSave": true,
+  "emulator.emulatorPathWindows": "C:\\Users\\USER\\AppData\\Local\\Android\\Sdk\\emulator",
+  "emulator.emulatorPathMac": "C:\\Users\\USER\\.android\\avd",
+  "emulator.androidColdBoot": false,
+  "workbench.colorTheme": "Material Theme Palenight High Contrast",
+  "editor.fontFamily": " Ubuntu Mono,  monospace",
+  "editor.fontLigatures": true,
+  "sonarlint.rules": {
+    "javascript:S125": {
+      "level": "off"
+    }
+  },
+  "explorer.confirmDragAndDrop": false,
+  "cSpell.enableFiletypes": [
+    "dart"
+  ],
+  "cSpell.userWords": [
+    "mastercardlogo",
+    "matercardlogo",
+    "whatsapp"
+  ],
+  "dart.showInspectorNotificationsForWidgetErrors": false,
+  "security.workspace.trust.untrustedFiles": "open",
+  "[dart]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.rulers": [
+      80
+    ],
+    "editor.selectionHighlight": false,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.suggestSelection": "first",
+    "editor.tabCompletion": "onlySnippets",
+    "editor.wordBasedSuggestions": false
+  },
+  "workbench.startupEditor": "none"
+}
